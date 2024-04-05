@@ -1,0 +1,3 @@
+[submodule "doc-IP-BII"]
+	path = doc-IP-BII
+	url = git@github.com:mortalcr/doc-IP-BII.git
